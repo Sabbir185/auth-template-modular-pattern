@@ -1,0 +1,7 @@
+node_modules
+.idea
+.vercel
+dist
+logs
+.env.dev
+.env.prod

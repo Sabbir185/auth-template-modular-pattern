@@ -1,0 +1,66 @@
+[
+    {
+        "_id": {
+          "$oid": "677cb2386677c6cba2b4c75d"
+        },
+        "name": "Sabbir Ahmmeds",
+        "email": "sabbir.ahmmed@appstick.com.bd",
+        "phone": "+8801725151578",
+        "password": "$2b$10$tAGIS3TkiA04kxxDxqWtcO8qXmmGy.YGzmISj9cSlc4p814actO/.",
+        "role": "admin",
+        "is_deleted": false,
+        "is_verified": false,
+        "status": "pending",
+        "fcm_token": [
+          ""
+        ],
+        "createdAt": {
+          "$date": "2025-01-07T04:48:56.942Z"
+        },
+        "updatedAt": {
+          "$date": "2025-01-07T06:49:02.876Z"
+        },
+        "__v": 0
+    },
+    
+    {
+        "_id": {
+          "$oid": "677f590f4b85d30543cbd8d0"
+        },
+        "__v": 0,
+        "address": "Saudi Arabia",
+        "createdAt": {
+          "$date": "2025-01-09T05:05:19.363Z"
+        },
+        "currency_code": "SAR",
+        "currency_symbol": "﷼",
+        "description": "Curora Medical Surgery",
+        "email": "sabbir.py@gmail.com",
+        "email_config": {
+          "default": "gmail",
+          "sendgrid": {
+            "host": "String",
+            "port": "String",
+            "username": "String",
+            "password": "String",
+            "sender_email": "String"
+          },
+          "gmail": {
+            "auth_email": "appstickltd@gmail.com",
+            "password": "",
+            "service_provider": "gmail"
+          }
+        },
+        "footer": "All right reserve, Curora@2025",
+        "logo": "",
+        "otp_verification_type": "email",
+        "phone": "+8801725151578",
+        "site_name": "Curora",
+        "sms": {
+          "active": false
+        },
+        "updatedAt": {
+          "$date": "2025-01-09T05:05:19.363Z"
+        }
+      }
+]
